@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Кирилл Старшинин](https://up.htmlacademy.ru/adaptive/15/user/635923).
-* Наставник: `Неизвестно`.
+* Наставник: Ксения Торкова.
 
 ---
 
